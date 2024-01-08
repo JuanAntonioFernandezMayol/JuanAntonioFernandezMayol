@@ -11,7 +11,7 @@ El deporte me gustó de siempre, de hecho me sigue apasionando. Por eso me form�
 
 ### Tecnologías
 - 💻 Java, JavaScript, CSS3, HTML, Github.
-- 🌐 GitHub: [(https://github.com/JFernandez16)]
+- 🌐 GitHub: [(https://github.com/JuanAntonioFernandezMayol)]
 
 ## Proyectos Destacados
 - 🌟 [DrunkyDucks]: Es una página de cocteles, con un amplio recetario de ellos, juegos y ChatGPT integrado, fue el proyecto del Bootcamp que realice de Front-End en la EOI(https://drunkyducks.com/).
